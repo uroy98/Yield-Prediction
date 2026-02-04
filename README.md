@@ -7,3 +7,5 @@ This repository contains the following:
 4. **encoder_model.h5** is the autoencoder model which can be used to derive the latent representations of the input data.
 5. **best_model.pkl** is the model which predicts the reaction yield of the micellar catalysis reactions.
 6. **best_params.json** is the training configuration, that is, the best hyperparameters obtained from Optuna.
+
+The paper published using this dataset can be found at ACS Catalysis 2025 in this link - https://pubs.acs.org/doi/abs/10.1021/acscatal.5c03190  
